@@ -1,5 +1,4 @@
-name: Git Checkout Workflow
-
+name: Command line workflow
 on: push
 
 jobs:
